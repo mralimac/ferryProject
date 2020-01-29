@@ -1,9 +1,9 @@
 <?php
 abstract class Database{
-	private $username = "in14004614";
-	private $password = "956785ab";
-	private $schema = "in14004614";
-	private $host = "localhost";
+	private $username = "";
+	private $password = "";
+	private $schema = "";
+	private $host = "";
 	private $conn;
 	
 	//Starts a MySQL connection
